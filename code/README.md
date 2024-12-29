@@ -19,11 +19,11 @@ The encoding logic works as follows:
 ### Parameters
 - Base Port: 49152 (Start of dynamic port range)
 - Port Range: 16383
-- Additional parameters (two, three, five, seven) for logic manipulation
+- Additional parameters (two, three, five, seven) for logic manipulation which can change for a different encoding approach
 - Timeout: 30 seconds for receiver
 
 ### Limitations
-- Must use ports in the dynamic range (49152-65535) to avoid conflicts
+- Must use ports in the dynamic range (49152-65535) to avoid conflicts with ports that might already be in use
 - Port range must be large enough to find valid encodings
 - Network latency and packet filtering may affect reliability
 
