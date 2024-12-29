@@ -8,6 +8,13 @@ Covert Channel documentation
 
 Please add your names, group ID, and your link to the forked public repository here by editing `index.rst` in the docs folder.
 
+Group Member 1: 
+Name: Yusuf Sami Lök
+ID: 2521748
+Group Member 2:
+Name: Hasan Küreli
+ID: 2580751
+
 
 .. toctree::
    :maxdepth: 2
